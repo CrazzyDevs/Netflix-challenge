@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #000;
+    color: white;
+    font-family: 'Ranade', sans-serif;
+}
+
+.logo{
+    font-family: 'Gambarino', serif;
+}
