@@ -8,11 +8,12 @@ export default function Cards({ data }) {
       <Hero />
       <div className="w-[80%] mx-auto p-5 mt-10">
         <div className="grid lg:grid-cols-3 md:grid-cols-3 gap-10 place-items-center justify-center">
-          {data.map(({ id, name }) => (
+          {data.map(({ id, name, borderColor }) => (
             <Link
               to={`/${name}`}
               key={id}
-              className="lg:w-[300px] md:w-[200px] w-[250px] h-[250px] mx-auto border border-[#82EFEA] rounded-[30px] cursor-pointer hover:bg-[#82EFEA] hover:text-black transition-all durtaion-300 shadow-lg  items-center justify-center"
+              className={`lg:w-[300px] md:w-[200px] w-[250px] h-[250px] mx-auto border rounded-[30px] cursor-pointer transition-all duration-300 shadow-lg items-center justify-center`}
+              style={{ borderColor }}
             >
               <div className="flex flex-col gap-3 items-center justify-center h-full">
                 <p className="mb-2 text-center text-3xl">

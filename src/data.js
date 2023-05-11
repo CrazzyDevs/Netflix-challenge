@@ -8,6 +8,7 @@ const data = [
       Struggles: "I suffered, omo!",
       viewLink: "Your hosted link should be here",
       viewCode: "The link to the github should be here",
+      borderColor: "#03EAE3"
     },
 ]
 
