@@ -25,6 +25,20 @@ const data = [
     viewCode: "https://github.com/Maap014/Netflix-clone.git",
     borderColor: "RGB( 235, 0, 0)",
   },
+
+  {
+    id: 3,
+    name: "Gideon",
+    image:
+      "https://res.cloudinary.com/dzv6h1xcl/image/upload/v1683932544/Screenshot_2023-05-12_235352_wfousn.jpg",
+    Technology: "HTML, CSS",
+    Time: "5 days",
+    Struggles:
+      " I just had the time of my life... Lolx",
+    viewLink: "https://brown-netflix-clone.netlify.app/",
+    viewCode: "https://github.com/ogidibrown/netflix-clone/",
+    borderColor: "RGB( 228, 0, 0)",
+  },
 ];
 
 export default data;
