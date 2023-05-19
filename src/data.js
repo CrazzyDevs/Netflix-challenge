@@ -37,7 +37,7 @@ const data = [
       " I just had the time of my life... Lolx",
     viewLink: "https://brown-netflix-clone.netlify.app/",
     viewCode: "https://github.com/ogidibrown/netflix-clone/",
-    borderColor: "RGB( 228, 5, 0)",
+    borderColor: "#0437F2",
   },
 ];
 
