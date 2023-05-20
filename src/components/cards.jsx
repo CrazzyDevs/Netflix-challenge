@@ -12,7 +12,7 @@ export default function Cards({ data }) {
             <Link
               to={`/${name}`}
               key={id}
-              className={`lg:w-[300px] md:w-[200px] w-[250px] h-[250px] mx-auto border rounded-[30px] cursor-pointer transition-all duration-300 shadow-lg items-center justify-center`}
+              className={`lg:w-[320px] md:w-[200px] w-[250px] h-[250px] mx-auto border rounded-[30px] cursor-pointer transition-all duration-300 shadow-lg items-center justify-center`}
               style={{ borderColor }}
             >
               <div className="flex flex-col gap-3 items-center justify-center h-full">

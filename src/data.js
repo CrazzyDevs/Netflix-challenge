@@ -28,7 +28,7 @@ const data = [
 
   {
     id: 3,
-    name: "Gideon",
+    name: "Gideon (HTML & CSS)",
     image:
       "https://res.cloudinary.com/dzv6h1xcl/image/upload/v1683932544/Screenshot_2023-05-12_235352_wfousn.jpg",
     Technology: "HTML, CSS",
@@ -39,6 +39,19 @@ const data = [
     viewCode: "https://github.com/ogidibrown/netflix-clone/",
     borderColor: "#0437F2",
   },
+{
+  id: 4,
+  name: "Gideon (JavaScript)",
+  image:
+    "https://res.cloudinary.com/dzv6h1xcl/image/upload/v1683932544/Screenshot_2023-05-12_235352_wfousn.jpg",
+  Technology: "JavaScript",
+  Time: "2 days",
+  Struggles:
+    " I don't even know what to say... Lolx",
+  viewLink: "https://ogidibrown-random-quotes.netlify.app/",
+  viewCode: "https://github.com/ogidibrown/random-quotes/",
+  borderColor: "#0437F2",
+},
 ];
 
 export default data;
