@@ -1,19 +1,6 @@
 const data = [
   {
     id: 1,
-    name: "Precious",
-    image:
-      "https://res.cloudinary.com/dpokiomqq/image/upload/v1683728672/Screen_Shot_2023-05-10_at_3.22.39_PM_ks1mzx.png",
-    Technology: "HTML, CSS, JAVASCRIPT",
-    Time: "3 days",
-    Struggles: "I suffered, omo!",
-    viewLink: "Your hosted link should be here",
-    viewCode: "The link to the github should be here",
-    borderColor: "#03EAE3",
-  },
-
-  {
-    id: 2,
     name: "Augustine",
     image:
       "https://res.cloudinary.com/dzv6h1xcl/image/upload/v1683932544/Screenshot_2023-05-12_235352_wfousn.jpg",
@@ -26,14 +13,14 @@ const data = [
     borderColor: "RGB( 235, 0, 0)",
   },
   {
-    id: 3,
+    id: 2,
     name: "Marvellous",
     image:
       "https://cdn.filestackcontent.com/wiqM0TwWTtS1HuMcs9Wa?policy=eyJleHBpcnkiOjE3MDQwNjcxOTksImNhbGwiOlsicGljayIsInJlYWQiLCJ3cml0ZSIsIndyaXRlVXJsIiwic3RvcmUiXSwibWF4U2l6ZSI6MTAyNDAwMDB9&signature=1d0fbc55d6a921405f4857134945838eb714bcd6720e9333078c6f893b0f4f78",
     Technology: "CSS, Tailwind Css, React Js",
     Time: "2 days",
     Struggles:
-      " I didn't have much trouble except from the signUp button",
+      "I didn't have much trouble except from the signUp button",
     viewLink: "https://marvellous-net.netlify.app/",
     viewCode: "https://github.com/UjeborMarvellous/Netflix-Clone-Web-App",
     borderColor: "RGB( 220, 120, 3)",

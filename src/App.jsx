@@ -11,7 +11,7 @@ export default function App() {
           <Route
             key={item.id}
             path={`/${item.name}`}
-            element={<Details data={item} />}
+            element={<Details data={item}/>}
           />
         ))}
         <Route path="/" element={<Cards data={data} />} />
