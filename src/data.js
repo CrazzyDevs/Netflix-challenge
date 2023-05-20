@@ -43,7 +43,7 @@ const data = [
   id: 4,
   name: "Gideon (JavaScript)",
   image:
-    "https://res.cloudinary.com/dzv6h1xcl/image/upload/v1683932544/Screenshot_2023-05-12_235352_wfousn.jpg",
+    "https://res.cloudinary.com/datp0hkmw/image/upload/v1684561113/Screen_Shot_2023-05-20_at_5.38.01_AM_mocmhs.jpg",
   Technology: "JavaScript",
   Time: "2 days",
   Struggles:
